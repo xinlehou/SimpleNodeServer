@@ -20,14 +20,14 @@
     
     
       ```
-      http://localhost:8081/post
+      http://localhost:8083
       ```
       
     * POST
     
     
       ```
-      url:http://localhost:8081/post
+      url:http://localhost:8083/post
       param:{"name": "roby","gender":"male"} //随意
       Content-type:application/json
       ```
